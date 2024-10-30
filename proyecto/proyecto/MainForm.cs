@@ -1,10 +1,7 @@
 ﻿/*
- * Created by SharpDevelop.
- * User: CC2_PC02
+ * Created by personas.exe y un flan.rar
  * Date: 29/10/2024
  * Time: 07:11 a. m.
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 using System;
 using System.Collections.Generic;
