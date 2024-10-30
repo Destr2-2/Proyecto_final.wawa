@@ -48,6 +48,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="acercde.cs" />
+    <Compile Include="acercde.Designe.cs" />
+      <DependentUpon>acercde.cd</DependentUpon>
     <Compile Include="ingles.cs" />
     <Compile Include="ingles.Designer.cs">
       <DependentUpon>ingles.cs</DependentUpon>
